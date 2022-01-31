@@ -100,7 +100,7 @@ ________________________________________________________________________________
 </p>
 </details>
 -----
-Credits: [HARSHUOPJS](https://github.com/harshuopjs)
+Credits: [HARSHUOPJS](https://github.com/harshuopjs/)
 
 Last Edited on: 31/01/2022
 
