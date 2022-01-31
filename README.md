@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/harshuopjs">
-    <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/Hello%20world.gif" width="450">
+    <img src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif" width="450">
   </a>
 </p>
 
