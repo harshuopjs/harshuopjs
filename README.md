@@ -86,8 +86,7 @@ ________________________________________________________________________________
 
 - ☯️ If you don’t like the hand that fate’s dealt you with, fight for a new one. <br>
 - 🤝 Open for collaboration in Data Science and Deep Learning. <br>
-- 🕸️ Visit my porfolio [website](https://celestial.harshuopdev.repl.co) for more info. <br>
-- 🌀 Trying to Reach you at [Discord](https://discord.gg/mxDPtgKPE5).
+- 🌀 Trying to Reach you at [INSTAGRAM](https://instagram.com/pvt.___.nknown).
 
 <br>
 
@@ -99,22 +98,7 @@ ________________________________________________________________________________
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=harshuopjs&hide=TeX,HTML&theme=tokyonight">
 </p>
 </details>
------
-Credits: [HARSHUOPJS](https://github.com/harshuopjs/)
 
-Last Edited on: 31/01/2022
 
-<!--
-This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Last Edited on: 16/12/2023
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
