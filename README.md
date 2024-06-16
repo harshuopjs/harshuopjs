@@ -8,7 +8,7 @@
 
 > My new Discord: https://dsc.gg/fantsy-hq
 
-<a href="https://discord.com/users/859312028137422858/"><img src="https://discord.c99.nl/widget/theme-3/859312028137422858.png"></a> <a href="https://dsc.gg/fantasy-hq"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
+<a href="https://discord.com/users/859312028137422858/"><img src="https://discord.c99.nl/widget/theme-3/859312028137422858.png"></a> <a href="https://dsc.gg/fantasy-hq"><img src=""></a>
 
 ***
 
