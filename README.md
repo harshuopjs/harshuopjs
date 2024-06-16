@@ -1,6 +1,6 @@
 <div align="center" style"border-radius:15px">
   <a href="https://discord.gg/5dUb7M2qCj" title="Discord Server" target="_blank">
-    <img src="https://cdn.discordapp.com/banners/1069185336913170503/5d74ce8347210fb362c092292c85a184.png" style"width: 100%;border-radius:15px">
+    <img src="https://media.tenor.com/23-jW3bpuN0AAAAC/harshuopjs-harsh.gif" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
@@ -8,7 +8,7 @@
 
 > My new Discord: https://dsc.gg/fantsy-hq
 
-<a href="https://discord.com/users/498094279793704991/"><img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"></a> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
+<a href="https://discord.com/users/859312028137422858/"><img src="https://discord.c99.nl/widget/theme-3/859312028137422858.png"></a> <a href="https://dsc.gg/fantasy-hq"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
 
 ***
 
